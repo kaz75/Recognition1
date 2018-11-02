@@ -23,15 +23,6 @@ public class Recognition1_main {
 		JsonNode node = slib.getNode();
 		slib.keisan(node);
 		
-		/*
-		String api = "RmQsujfQEcmY92iIiT4-rwNIs7JWs0O1rOxr0896_RNS";
-		String version = "2018-03-19";
-		Recongnition1_lib rlib = new Recognition1_lib(api,version);
-	
 		
-		String path = "img/abe.jpg";
-		DetectedFaces result = rlib.getRecognition(path);
-		rlib.getJson(result);
-	*/
 }
 }
